@@ -38,7 +38,7 @@ use yii\helpers\Html;
               </li>
 
               <li class="dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Laporan<span class="caret"></span></a>
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Laporan Data Barang<span class="caret"></span></a>
                 <ul class="dropdown-menu" role="menu">
                   <li><a href="index.php?r=brg-masuk/index">Laporan Barang Masuk</a></li>
                   <li><a href="index.php?r=brg-keluar/index">Laporan Barang Keluar</a></li>

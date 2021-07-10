@@ -44,7 +44,7 @@ use yii\helpers\Html;
                   <li><a href="index.php?r=brg-keluar/index">Laporan Barang Keluar</a></li>
                   <li><a href="index.php?r=transaksi/index">Laporan Transaksi Detail</a></li>
                   <li><a href="index.php?r=transaksi/index2">Laporan Transaksi Ringkas</a></li>
-                  <li><a href="index.php?r=transaksi/indexstok">Laporan Stok</a></li>
+                  <li><a href="index.php?r=transaksi/indexstok">Laporan Stok Barang</a></li>
                   </ul>
 
               </li>
